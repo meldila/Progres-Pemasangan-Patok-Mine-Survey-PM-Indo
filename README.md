@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://meldila.github.io/progres-pemasangan-patok-mine-survey-pama-indo/
+- Leaflet Map https://meldila.github.io/pemasangan-patok-pama-indo/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1hlKeq8ojhKY_89-304xmXX7c0FoXU2UeDjSLk02vcyo/edit#gid=0
 
 ## Create your own
