@@ -1,21 +1,16 @@
 # Peta Leaflet menggunakan Google Sheets
-Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
+Peta leaflet ini terhubung dengan Google Sheets dan data GeoJSON di Github
 
 ![Preview](preview.jpg)
 
-## Live links (replace with your own)
-- Leaflet Map https://meldila.github.io/pemasangan-patok-pama-indo/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1hlKeq8ojhKY_89-304xmXX7c0FoXU2UeDjSLk02vcyo/edit#gid=0
+# Link Github dan Google Sheets
+- Peta leaflet : https://meldila.github.io/pemasangan-patok-pama-indo/
+- Google Sheets : https://docs.google.com/spreadsheets/d/1hlKeq8ojhKY_89-304xmXX7c0FoXU2UeDjSLk02vcyo/edit#gid=0
 
-## Create your own
-See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
+# Referensi
+Referensi ini dari *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
 
-#### Geocode your address data with Google Sheets add-on
-To geocode (find latitude and longitude coordinates), we recommend installing the free [Geocoding by SmartMonkey add-on for Google Sheets](https://gsuite.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312). Insert your addresses in place of the samples in the Geocoding Details tab, then use Add-Ons > Geocoding > Geocode Details menu. Learn more in *Hands-On Data Visualization* https://handsondataviz.org/geocode.html
-
-![Geocoding](geocode.png)
-
-#### To finalize your map, you need to either:
+# To finalize your map, you need to either:
 - Download each Google Sheets tab as a CSV file and upload into a `csv` subfolder in your GitHub repo
   - OR
 - Get your own Google Sheets API Key to insert into `google-doc-url.js`
