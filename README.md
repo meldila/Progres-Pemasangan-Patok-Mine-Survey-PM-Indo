@@ -1,7 +1,7 @@
 # Peta Leaflet menggunakan Google Sheets
 Peta leaflet ini terhubung dengan Google Sheets dan data GeoJSON di Github
 
-![Preview](preview.jpg)
+![Preview](previe.jpg)
 
 # Link Github dan Google Sheets
 - Peta leaflet : https://meldila.github.io/pemasangan-patok-pama-indo/
